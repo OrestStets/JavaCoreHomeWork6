@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="70ef9476-e273-4197-9e2a-6db6bb99c104" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lgs/lab/interface1/WorkerPerHour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lgs/lab/interface1/WorkerPerHour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface2/Numerable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface2/Numerable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface3/MyCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface3/MyCalculator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +91,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -1,6 +1,10 @@
 package interface2;
 
+import java.util.Scanner;
+
 public interface Numerable extends Plus, Minus, Multiply, Devide {
+
+    Scanner scanner = new Scanner(System.in);
 
     @Override
     void plus();

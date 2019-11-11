@@ -9,7 +9,7 @@ public class WorkerPerHour implements Salary {
         int workingHours = 16;
         int result;
 
-        result = (hoursInDay-workingHours) * salaryPerHour;
+        result = (hoursInDay - workingHours) * salaryPerHour;
 
         System.out.println("Workers salary is " + result + " Dollars per day" + "\n");
     }
